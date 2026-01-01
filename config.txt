@@ -1,0 +1,4 @@
+Ihre_WLAN_SSID
+Ihr_WLAN_Passwort
+Ihr_Google_Gemini_API_Key
+https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
